@@ -1,0 +1,12 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 64C3-B4B1
+
+ Pasta de C:\deposito\Eduteste1
+
+29/08/2015  10:17    <DIR>          .
+29/08/2015  10:17    <DIR>          ..
+29/08/2015  10:17                 0 a.txt
+29/08/2015  10:14    <DIR>          aaa
+29/08/2015  10:13                33 README.md
+               2 arquivo(s)             33 bytes
+               3 pasta(s)   197.261.725.696 bytes dispon°veis
